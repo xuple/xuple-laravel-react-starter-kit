@@ -1,4 +1,10 @@
-# Xuple Laravel React Starter Kit
+## 🚀 Xuple Starter Kit Pipeline
+
+This is the foundation starter kit in our growing collection.
+
+Future templates and extensions will be announced based on community feedback and demand.
+
+### Xuple Laravel React Starter Kit
 
 ## Introduction
 
@@ -23,7 +29,7 @@ This starter kit resolves critical issues that prevent successful installation a
 
 ```bash
 # Clone the repository
-git clone https://github.com/xuple/laravel-react-starter-kit.git my-app
+git clone https://github.com/xuple/xuple-laravel-react-starter-kit.git my-app
 
 # Install dependencies
 composer install
@@ -44,9 +50,8 @@ npm run dev
 
 This is the foundation starter kit in our growing collection:
 
-- **🔧 Laravel React Starter Kit** (this repo) - Clean, reliable foundation
-- **🏛️ Government Design System Starter** (coming soon) - Home Office styled guide components
-- **🎨 NotGov Starter Kit** (coming soon) - Alternative government design patterns
+- **🔧 Xuple Laravel React Starter Kit** (this repo) - Clean, reliable foundation
+- **🏛️  Xuple Laravel React Inertia Government Design System Starter** (coming soon) - Alternative government design patterns
 
 Each starter kit builds on the reliability and fixes established in this foundation.
 
